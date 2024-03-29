@@ -1,5 +1,5 @@
 # GlassWindows - Chrome Extension to automatically remove all the annoying popups
-
+![](./imgs/icon-128.png)
 
 ## How to Use
 1. Installation
@@ -9,6 +9,7 @@
 2. Activation
     - Click on the GlassWindow extension icon in the Chrome toolbar.
     - The extension will automatically remove all the annoying popups.
+![](./imgs/2024-03-29_01-41.png)
 
 ## Contributions
 Feel free to contribute to the project by submitting issues, feature requests, or pull requests. Your feedback and contributions are highly valued.
